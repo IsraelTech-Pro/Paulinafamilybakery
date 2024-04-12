@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 {"homepage": "https://israeltech-pro.github.io/paulinafamilybakery",
+=======
+{"homepage": "https://IsraelTech-Pro.github.io/paulinafamilybakery",
+>>>>>>> c8dfcc1be0c4070a5e62f37e1c58a77c0a265d20
   "name": "my-react-app",
   "version": "0.1.0",
   "private": true,
