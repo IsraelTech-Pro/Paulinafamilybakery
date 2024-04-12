@@ -1,0 +1,43 @@
+.footer {
+  position: flex;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100px;
+  background-color: #121619;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 10px;
+ 
+}
+
+.socialMedia {
+  display: flex;
+  justify-content: center;
+}
+
+.socialMedia svg {
+  color: white;
+  margin: 10px; 
+  font-size: 30px; 
+  cursor: pointer;
+}
+
+.footer p {
+  color: white;
+  margin-top: 5px;
+}
+
+
+@media only screen and (max-width: 600px) {
+  .socialMedia {
+    flex-wrap: wrap; 
+  }
+
+  .socialMedia svg {
+    margin: 5px; 
+    font-size: 20px; 
+  }
+}
