@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/paulinafamilybakery/static/css/main.4b462c38.css",
-    "main.js": "/paulinafamilybakery/static/js/main.ea38b014.js",
+    "main.js": "/paulinafamilybakery/static/js/main.b5e37f26.js",
     "static/js/453.99dcf01f.chunk.js": "/paulinafamilybakery/static/js/453.99dcf01f.chunk.js",
     "static/media/bread-banner.jpg": "/paulinafamilybakery/static/media/bread-banner.b74e14baea4fc38f5be9.jpg",
     "static/media/rollsbread.webp": "/paulinafamilybakery/static/media/rollsbread.6b1c2a6e138ed10361cf.webp",
@@ -14,11 +14,11 @@
     "static/media/butter.jpg": "/paulinafamilybakery/static/media/butter.edb7e22a6314b65dee4c.jpg",
     "index.html": "/paulinafamilybakery/index.html",
     "main.4b462c38.css.map": "/paulinafamilybakery/static/css/main.4b462c38.css.map",
-    "main.ea38b014.js.map": "/paulinafamilybakery/static/js/main.ea38b014.js.map",
+    "main.b5e37f26.js.map": "/paulinafamilybakery/static/js/main.b5e37f26.js.map",
     "453.99dcf01f.chunk.js.map": "/paulinafamilybakery/static/js/453.99dcf01f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b462c38.css",
-    "static/js/main.ea38b014.js"
+    "static/js/main.b5e37f26.js"
   ]
 }
