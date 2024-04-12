@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Paulinafamilybakery/static/css/main.4b462c38.css",
-    "main.js": "/Paulinafamilybakery/static/js/main.52355633.js",
-    "static/js/453.99dcf01f.chunk.js": "/Paulinafamilybakery/static/js/453.99dcf01f.chunk.js",
-    "static/media/bread-banner.jpg": "/Paulinafamilybakery/static/media/bread-banner.b74e14baea4fc38f5be9.jpg",
-    "static/media/rollsbread.webp": "/Paulinafamilybakery/static/media/rollsbread.6b1c2a6e138ed10361cf.webp",
-    "static/media/suger.jpg": "/Paulinafamilybakery/static/media/suger.97f8c4f83ad27d9ee07b.jpg",
-    "static/media/wheat.jpg": "/Paulinafamilybakery/static/media/wheat.ec7fd7e83506acabd871.jpg",
-    "static/media/paulaLogo.png": "/Paulinafamilybakery/static/media/paulaLogo.9fc259632c3bebcf295a.png",
-    "static/media/cokies.jpg": "/Paulinafamilybakery/static/media/cokies.a09f87977769a0481243.jpg",
-    "static/media/donuts.jpg": "/Paulinafamilybakery/static/media/donuts.aabe1a62a497b5c24039.jpg",
-    "static/media/banner.avif": "/Paulinafamilybakery/static/media/banner.bb0ff70c10356a480d57.avif",
-    "static/media/butter.jpg": "/Paulinafamilybakery/static/media/butter.edb7e22a6314b65dee4c.jpg",
-    "index.html": "/Paulinafamilybakery/index.html",
-    "main.4b462c38.css.map": "/Paulinafamilybakery/static/css/main.4b462c38.css.map",
-    "main.52355633.js.map": "/Paulinafamilybakery/static/js/main.52355633.js.map",
-    "453.99dcf01f.chunk.js.map": "/Paulinafamilybakery/static/js/453.99dcf01f.chunk.js.map"
+    "main.css": "/paulinafamilybakery/static/css/main.4b462c38.css",
+    "main.js": "/paulinafamilybakery/static/js/main.ea38b014.js",
+    "static/js/453.99dcf01f.chunk.js": "/paulinafamilybakery/static/js/453.99dcf01f.chunk.js",
+    "static/media/bread-banner.jpg": "/paulinafamilybakery/static/media/bread-banner.b74e14baea4fc38f5be9.jpg",
+    "static/media/rollsbread.webp": "/paulinafamilybakery/static/media/rollsbread.6b1c2a6e138ed10361cf.webp",
+    "static/media/suger.jpg": "/paulinafamilybakery/static/media/suger.97f8c4f83ad27d9ee07b.jpg",
+    "static/media/wheat.jpg": "/paulinafamilybakery/static/media/wheat.ec7fd7e83506acabd871.jpg",
+    "static/media/paulaLogo.png": "/paulinafamilybakery/static/media/paulaLogo.9fc259632c3bebcf295a.png",
+    "static/media/cokies.jpg": "/paulinafamilybakery/static/media/cokies.a09f87977769a0481243.jpg",
+    "static/media/donuts.jpg": "/paulinafamilybakery/static/media/donuts.aabe1a62a497b5c24039.jpg",
+    "static/media/banner.avif": "/paulinafamilybakery/static/media/banner.bb0ff70c10356a480d57.avif",
+    "static/media/butter.jpg": "/paulinafamilybakery/static/media/butter.edb7e22a6314b65dee4c.jpg",
+    "index.html": "/paulinafamilybakery/index.html",
+    "main.4b462c38.css.map": "/paulinafamilybakery/static/css/main.4b462c38.css.map",
+    "main.ea38b014.js.map": "/paulinafamilybakery/static/js/main.ea38b014.js.map",
+    "453.99dcf01f.chunk.js.map": "/paulinafamilybakery/static/js/453.99dcf01f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b462c38.css",
-    "static/js/main.52355633.js"
+    "static/js/main.ea38b014.js"
   ]
 }
